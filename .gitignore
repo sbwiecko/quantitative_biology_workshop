@@ -1,2 +1,4 @@
 *.tif
 *.pymol_env
+*.env
+*.mp4
