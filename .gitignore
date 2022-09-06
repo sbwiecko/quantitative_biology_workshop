@@ -1,4 +1,5 @@
 *.tif
-*.pymol_env
-*.env
+*env
 *.mp4
+*.zip
+*.fa # sequence files
